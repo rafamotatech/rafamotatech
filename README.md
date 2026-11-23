@@ -14,7 +14,7 @@ Atualmente, estou aprofundando meus conhecimentos em programação, lógica, des
 - Git e GitHub
 - Lógica de Programação
 - Tkinter
--  
+  
 
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,javascript,git,github,vscode,sqlite&theme=dark)](https://skillicons.dev)
 
